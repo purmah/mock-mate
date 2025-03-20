@@ -25,7 +25,8 @@ MockMate is an intelligent mock interview platform designed to help users excel 
 ### **1️⃣ Clone the Repository**
 
 git clone https://github.com/purmah/mock-mate.git
-cd AI-Interview-mocker  
+
+cd mock-mate  
 
 ### **2️⃣ Install Dependencies**
 
